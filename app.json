@@ -13,7 +13,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.waltoss.bug-repro-unistyles"
     },
     "android": {
       "adaptiveIcon": {
